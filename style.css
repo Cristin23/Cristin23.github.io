@@ -1,0 +1,32 @@
+body {
+  font-family: Грузия;
+  font-size: 16px;
+  margin: 0 auto; / * центр содержимого * /
+  max-width: 400 пикселей; / * ограничение ширина * /
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 12px;
+}
+h1 {
+    Размер шрифта: 36px;
+    padding-bottom: opx;
+}
+h2 {
+    Размер шрифта: 32px;
+    border-bottom: 1px;
+    border-bottom-color: серый;
+    padding-bottom: 8px;
+}
+h3 {
+    размер шрифта: 20 пикселей;
+    padding-bottom: 0px;
+    margin: 0 auto;
+}
+
+#header {
+    margin-bottom: 32px;
+
+}
+#footer {
+    margin-top: 64px;
+}
